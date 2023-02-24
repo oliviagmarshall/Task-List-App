@@ -1,0 +1,60 @@
+body {
+    background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/068/899/original/Oil-Bubbles-iPhone-Wallpaper.jpg?1677233953);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  
+  h1,
+  h2 {
+    text-align: center;
+    color: #00b0ff;
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  #actionInput {
+    max-width: 800px;
+    font-size: 20px;
+    border: #ffffff;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: inset 5px 5px 10px #cfcfcf, inset -5px -5px 10px #ffffff;
+  }
+  
+  .container {
+    margin: 50px auto;
+    padding: 20px;
+    font-family: "Roboto", sans-serif;
+    max-width: 1000px;
+    display: block;
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.5px);
+    -webkit-backdrop-filter: blur(5.5px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+  
+  .card {
+    color: #bb99f4;
+    border-radius: 33px;
+    background: linear-gradient(145deg, #f6ffff, #cfd6e5);
+    box-shadow: 13px 13px 25px #c4cad8, -13px -13px 25px #ffffff;
+    border: white;
+    text-align: center;
+  }
+  
+  .button {
+    border: white;
+    margin-left: 10px;
+    color: #09c0fc;
+    font-size: 20px;
+    padding: 0px 20px;
+    border-radius: 10px;
+    background: linear-gradient(145deg, #ffffff, #e6e6e6);
+    box-shadow: 5px 5px 15px #757575, -5px -5px 15px #ffffff;
+  }
+  
